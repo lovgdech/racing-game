@@ -1,0 +1,33 @@
+# Specifies intentionally untracked files to ignore
+# See https://git-scm.com/docs/gitignore for more about ignoring files.
+
+# Unity specific
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# VS/MD specific files
+*.suo
+*.user
+*.sln*
+*.suo
+*.csproj
+*.pidb
+*.userprefs
+*.unityproj
+*.booproj
+.vscode/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
